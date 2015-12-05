@@ -1,0 +1,67 @@
+[21-Oct-2015 16:56:54 America/Denver] PHP Parse error:  syntax error, unexpected '$selectAll' (T_VARIABLE), expecting catch (T_CATCH) in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php on line 23
+[21-Oct-2015 16:56:54 America/Denver] PHP Parse error:  syntax error, unexpected '$selectAll' (T_VARIABLE), expecting catch (T_CATCH) in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php on line 23
+[21-Oct-2015 16:57:43 America/Denver] PHP Notice:  Undefined property: stdClass::$title in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php on line 59
+[21-Oct-2015 16:59:44 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php:43
+Stack trace:
+#0 /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php(43): PDOStatement->execute(Array)
+#1 /home1/tardissh/public_html/dight350/mjm287/backToFuture/index.php(7): GetData->fetchData(1, 'Love Potion')
+#2 {main}
+  thrown in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php on line 43
+[21-Oct-2015 16:59:44 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php:43
+Stack trace:
+#0 /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php(43): PDOStatement->execute(Array)
+#1 /home1/tardissh/public_html/dight350/mjm287/backToFuture/index.php(7): GetData->fetchData(1, 'Love Potion')
+#2 {main}
+  thrown in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php on line 43
+[21-Oct-2015 16:59:45 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php:43
+Stack trace:
+#0 /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php(43): PDOStatement->execute(Array)
+#1 /home1/tardissh/public_html/dight350/mjm287/backToFuture/index.php(7): GetData->fetchData(1, 'Love Potion')
+#2 {main}
+  thrown in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php on line 43
+[21-Oct-2015 16:59:45 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php:43
+Stack trace:
+#0 /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php(43): PDOStatement->execute(Array)
+#1 /home1/tardissh/public_html/dight350/mjm287/backToFuture/index.php(7): GetData->fetchData(1, 'Love Potion')
+#2 {main}
+  thrown in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php on line 43
+[21-Oct-2015 16:59:46 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php:43
+Stack trace:
+#0 /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php(43): PDOStatement->execute(Array)
+#1 /home1/tardissh/public_html/dight350/mjm287/backToFuture/index.php(7): GetData->fetchData(1, 'Love Potion')
+#2 {main}
+  thrown in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php on line 43
+[21-Oct-2015 16:59:46 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php:43
+Stack trace:
+#0 /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php(43): PDOStatement->execute(Array)
+#1 /home1/tardissh/public_html/dight350/mjm287/backToFuture/index.php(7): GetData->fetchData(1, 'Love Potion')
+#2 {main}
+  thrown in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php on line 43
+[21-Oct-2015 17:00:00 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php:43
+Stack trace:
+#0 /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php(43): PDOStatement->execute(Array)
+#1 /home1/tardissh/public_html/dight350/mjm287/backToFuture/index.php(7): GetData->fetchData(1, 'Love Potion')
+#2 {main}
+  thrown in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php on line 43
+[21-Oct-2015 17:00:01 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php:43
+Stack trace:
+#0 /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php(43): PDOStatement->execute(Array)
+#1 /home1/tardissh/public_html/dight350/mjm287/backToFuture/index.php(7): GetData->fetchData(1, 'Love Potion')
+#2 {main}
+  thrown in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php on line 43
+[21-Oct-2015 17:00:03 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php:43
+Stack trace:
+#0 /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php(43): PDOStatement->execute(Array)
+#1 /home1/tardissh/public_html/dight350/mjm287/backToFuture/index.php(7): GetData->fetchData(1, 'Love Potion')
+#2 {main}
+  thrown in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php on line 43
+[21-Oct-2015 17:00:03 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php:43
+Stack trace:
+#0 /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php(43): PDOStatement->execute(Array)
+#1 /home1/tardissh/public_html/dight350/mjm287/backToFuture/index.php(7): GetData->fetchData(1, 'Love Potion')
+#2 {main}
+  thrown in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php on line 43
+[21-Oct-2015 17:04:10 America/Denver] PHP Fatal error:  Call to undefined function databaseInitial() in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php on line 26
+[21-Oct-2015 17:04:10 America/Denver] PHP Fatal error:  Call to undefined function databaseInitial() in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php on line 26
+[21-Oct-2015 17:04:11 America/Denver] PHP Fatal error:  Call to undefined function databaseInitial() in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php on line 26
+[21-Oct-2015 17:04:11 America/Denver] PHP Fatal error:  Call to undefined function databaseInitial() in /home1/tardissh/public_html/dight350/mjm287/backToFuture/class.php on line 26

@@ -1,0 +1,6 @@
+README
+
+I was having some difficulty in being able to get it to post automatically.  I used 
+the "generate" label to force it to refresh. I tried the header("location:index.php"); thing that you mentioned but it wasn't quite working. 
+
+p.s. Sorry for the lack of style on my assignments, I've never really done HTML

@@ -1,0 +1,84 @@
+head{
+	height: 100%;
+	width: 100%;
+	font-color: #819FF7;
+	
+}
+body {
+
+	line-height: 30px;
+	background-color:#E3D05D;
+	height: 700px;
+	float:center;
+	padding:5px;
+
+}
+nav{
+	line-height: 30px;
+	background-color:#E3D05D;
+	height: 700px;
+	float:right;
+	padding:5px;
+	width:300px;
+
+}
+
+footer{
+	background-color: black;
+	color:white;
+	clear:both;
+	text-align: center;
+	padding: 5px;
+}
+
+h1 {
+	background: url("../img/header.jpg");
+	box-sizing: border-box;
+	font-size: 3em;
+	margin: 0;
+	padding: 6.5% 1.5%;
+	text-align: center;
+
+}
+section {
+	background-size: 200px;
+	background: #1E63E9;
+	font: 25px/1.25;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	color: #000000;
+	font-family: "Georgia";
+	
+}
+
+table {
+	color: #333;
+	font-family: Helvetica, Arial, sans-serif;
+	width: 1000px;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+td, th{
+	border: 1px solid transparent;
+	height: 30px;
+	transition: all .3s;
+}
+th{
+	background: #1E63E9;
+	font-weight: bold;
+}
+td{
+	background: #1E63E9;
+	text-align: center;
+}
+tr td:hover {background: #666; color: ##1E63E9;}
+
+label { width: 100px; float: left; margin: 0 20px 0 0; }
+
+span { display: block; margin: 0 0 3px; font-size: 1.2em; font-weight: bold; }
+input { width: 100px; border: 1px solid #000; padding: 5px; }
+p{
+	padding-left:5em;
+}
+

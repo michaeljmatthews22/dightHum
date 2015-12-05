@@ -1,0 +1,150 @@
+.clearfix:after {
+	clear: both;
+	content: ".";
+	display: block;
+	height: 0;
+	line-height: 0;
+	visibility: hidden;
+}
+
+.clear { clear: both; }
+
+html { background: url(img/gray-background-tile.jpg); }
+
+body {
+	background: #ddd;
+	border-bottom-right-radius: 50px;
+	border-top-left-radius: 50px;
+	font-family: Futura, Verdana, Arial, sans-serif;
+	margin: 30px auto;
+	padding: 30px;
+	text-align: center;
+	width: 900px;
+}
+
+h2 a {
+	background: #fff;
+	border: 2px solid #006;
+	color: #006;
+	display: inline-block;
+	font-variant: small-caps;
+	padding: 20px;
+	text-decoration: none;
+	width: 40%;
+}
+
+h2 a:hover {
+	background: #006;
+	color: #fff;
+}
+
+h3 {
+	background: #fff;
+	border: 2px solid;
+	clear: both;
+	color: rgb(0,175,0);
+	margin-top: 25px;
+	padding: 10px 5px;
+}
+
+hr { clear: both; }
+
+p {
+	background-color: #fff;
+	background-position: center center;
+	background-repeat: no-repeat;
+	border-radius: 10px;
+	border: 2px solid #333;
+	float: left;
+	height: 64px;
+	margin-right: 10px;
+	width: 64px;
+}
+
+.explanation {
+	height: auto;
+	margin-top: 28px;
+	padding: 10px;
+	text-align: left;
+	width: 785px;
+}
+
+.unknown {
+	color: #f00;
+	height: 32px;
+	line-height: 32px;
+	margin-top: 27px;
+	padding: 5px;
+	width: 32px;
+}
+
+.magic {
+	height: 32px;
+	margin-top: 27px;
+	padding: 5px;
+	width: 32px;
+}
+	
+.magic.red {
+	background-image: url(img/magic-red.gif);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 60%;
+}
+
+.magic.blue {
+	background-image: url(img/magic-blue.gif);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 90%;
+}
+
+.magic.yellow {
+	background-image: url(img/magic-yellow.gif);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 60%;
+}
+
+.potion {
+	background-image: url(img/potion.gif);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 60%;
+	height: 32px;
+	margin-top: 27px;
+	padding: 5px;
+	width: 32px;
+}
+
+.stone-1 { background-image: url(img/stone-1.png); }
+.stone-1.red { background-image: url(img/red-stone-1.png); }
+.stone-1.blue { background-image: url(img/blue-stone-1.png); }
+.stone-1.yellow { background-image: url(img/yellow-stone-1.png); }
+.stone-1.blue.red { background-image: url(img/purple-stone-1.png); }
+.stone-1.orange { background-image: url(img/orange-stone-1.png); }
+.stone-1.green { background-image: url(img/green-stone-1.png); }
+
+.stone-2 { background-image: url(img/stone-2.png); }
+.stone-2.red { background-image: url(img/red-stone-2.png); }
+.stone-2.blue { background-image: url(img/blue-stone-2.png); }
+.stone-2.yellow { background-image: url(img/yellow-stone-2.png); }
+.stone-2.blue.red { background-image: url(img/purple-stone-2.png); }
+.stone-2.orange { background-image: url(img/orange-stone-2.png); }
+.stone-2.green { background-image: url(img/green-stone-2.png); }
+
+.stone-3 { background-image: url(img/stone-3.png); }
+.stone-3.red { background-image: url(img/red-stone-3.png); }
+.stone-3.blue { background-image: url(img/blue-stone-3.png); }
+.stone-3.yellow { background-image: url(img/yellow-stone-3.png); }
+.stone-3.blue.red { background-image: url(img/purple-stone-3.png); }
+.stone-3.orange { background-image: url(img/orange-stone-3.png); }
+.stone-3.green { background-image: url(img/green-stone-3.png); }
+
+.stone-4 { background-image: url(img/stone-4.png); }
+.stone-4.red { background-image: url(img/red-stone-4.png); }
+.stone-4.blue { background-image: url(img/blue-stone-4.png); }
+.stone-4.yellow { background-image: url(img/yellow-stone-4.png); }
+.stone-4.blue.red { background-image: url(img/purple-stone-4.png); }
+.stone-4.red.yellow { background-image: url(img/orange-stone-4.png); }
+.stone-4.blue.yellow { background-image: url(img/green-stone-4.png); }

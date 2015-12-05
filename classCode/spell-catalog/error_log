@@ -1,0 +1,5 @@
+[21-Sep-2015 16:08:45 America/Denver] PHP Warning:  include(): Failed opening 'form-spellcating.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/tardissh/public_html/dight350/mjm287/spell-catalog/index.php on line 14
+[21-Sep-2015 16:08:55 America/Denver] PHP Warning:  include(): Failed opening 'form-spellcating.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/tardissh/public_html/dight350/mjm287/spell-catalog/index.php on line 13
+[21-Sep-2015 16:09:00 America/Denver] PHP Warning:  include(): Failed opening 'form-spellcating.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/tardissh/public_html/dight350/mjm287/spell-catalog/index.php on line 13
+[21-Sep-2015 16:13:38 America/Denver] PHP Notice:  Undefined variable: GET in /home1/tardissh/public_html/dight350/mjm287/spell-catalog/index.php on line 18
+[21-Sep-2015 16:13:41 America/Denver] PHP Notice:  Undefined variable: GET in /home1/tardissh/public_html/dight350/mjm287/spell-catalog/index.php on line 18

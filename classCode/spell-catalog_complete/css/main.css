@@ -1,0 +1,111 @@
+body { background: #00aa77 url("../img/background.png"); }
+
+h1 {
+	font-family: "Permanent Marker",serif;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+main {
+	background-color: rgba(200,200,200,.75);
+	border-radius: 10px;
+	box-sizing: border-box;
+	margin: 50px auto;
+	max-width: 960px;
+	overflow: hidden;
+	padding: 35px;
+}
+
+section:nth-of-type(1) {
+	float: left;
+	line-height: 150px;
+	min-height: 100px;
+	text-align: center;
+	width: 65%;
+}
+
+section:nth-of-type(2) {
+	float: right;
+	min-height: 100px;
+	width: 30%;
+}
+
+section:nth-of-type(3) {
+	border-top: 1px dotted;
+	clear: both;
+	min-height: 100px;
+	overflow: hidden;
+}
+
+section:nth-of-type(3) div {
+	border-radius: 3px;
+	border: 1px solid;
+	box-sizing: border-box;
+	float: left;
+	margin: 2.5%;
+	padding: 5px;
+	width: 20%;
+	text-align: center;
+}
+
+section:nth-of-type(3) h3 { 
+	font-family: "Permanent Marker",serif;
+	text-align: center;
+}
+
+section:nth-of-type(3) h4 {
+	line-height: 35px;
+	margin: 0;
+	padding: 0;
+}
+
+section:nth-of-type(3) img {
+	display: block;
+	float: left;
+	margin-right: 10px;
+}
+
+.error {
+	background-color: rgba(135,0,0,.65);
+	color: rgb(225,225,225);
+	font: 18px/1.5 "Roboto", sans-serif;
+	padding: 20px;
+	text-align: center;
+}
+
+#btn_reset { text-align: right; }
+
+#btn_reset a {
+	background: rgb(100,100,100);
+	color: rgb(225,225,225);
+	padding: 5px 10px;
+	text-align: center;
+	text-decoration: none;
+}
+
+#btn_reset a:hover {
+	background: rgb(225,225,225);
+	color: rgb(100,100,100);
+}
+
+#spell_casting {
+	font: 16px/2 "Roboto", sans-serif;
+	margin-bottom: 50px;
+	overflow: hidden;
+}
+
+#spell_casting button {
+	float: left;
+	margin: 2.5%;
+	width: 45%;
+}
+
+#spell_casting label {
+	box-sizing: border-box;
+	display: inline-block;
+	margin: 0;
+	padding: 5px 15px;
+}
+
+#spell_casting select { width: 100%; }

@@ -1,0 +1,10 @@
+body { background-color: #eee; }
+h1 { font: normal 25px/30px verdana,sans-serif; text-align: center; }
+table { width: 1000px; margin: 0 auto; border-collapse: collapse; }
+th { font-weight:bold; text-align:center; width:120px; padding:5px; }
+td { background: #fff; height: 100px; width:100px; padding:5px; border:1px solid; }
+.non-day, td.non-day:hover { background:#666; }
+td:hover { background: rgba(0,51,102, .5); }
+td:hover div { background: #fff; color: #036; }
+.current { background: green; color: white; }
+.day-number { background:#036; padding:5px; color:#fff; font:normal 13px/16px arial,verdana,sans-serif; float:right; margin: -55px -5px 0 0; width:20px; text-align:center; }

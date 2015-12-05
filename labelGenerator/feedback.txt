@@ -1,0 +1,3 @@
+Potion Label Generator
+===========================
+[-] While technically functional, you didn't follow the requested theme of the assignment. While seemingly a trivial reason to lose points, you didn't follow the instructions.

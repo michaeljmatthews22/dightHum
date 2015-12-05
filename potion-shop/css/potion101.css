@@ -1,0 +1,33 @@
+head{
+	height: 100%;
+	width: 100%;
+	
+}
+body {
+	background-size: 200px;
+	background: #846352;
+	font: 25px/1.25;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	overflow: scroll;
+	color:#eef;
+}
+h1 {
+	background: url("../img/header.jpg");
+	box-sizing: border-box;
+	font-size: 3em;
+	margin: 0;
+	padding: 6.5% 1.5%;
+	text-align: center;
+
+}
+section {
+	box-sizing: border-box;
+	color: #815F53;
+	font-family: "Georgia";
+	font-size: 1.5em;
+	padding: 45px;
+	overflow: scroll;
+}
+
